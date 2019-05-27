@@ -47,6 +47,8 @@
 * Node.js vs IO.js
 * Use Node Version Manager
 
+' Why multiple versions are necessary
+
 ---
 
 ### Topics in this talk
@@ -129,6 +131,14 @@
 
 ---
 
+### left-pad
+
+* Problem with NPM transitive dependencies
+* package-lock.json
+* Bitcoin wallet attack
+
+---
+
 ### Compile to JS languages
 * Typescript
 * F#
@@ -149,7 +159,7 @@
 
 ### What can I do with Node
 
-* Code sharing
+* Code sharing between Client and Server
 * Isomorphic (universal) Javascript
   * Server Side rendering of client side frameworks
 
