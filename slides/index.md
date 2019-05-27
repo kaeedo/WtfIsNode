@@ -43,8 +43,8 @@
 
 ### Installation and Versions
 
-* Node.js vs IO.js
 * Current Stable version is 12.1.0 (April 29, 2019)
+* Node.js vs IO.js
 * Use Node Version Manager
 
 ---
@@ -83,7 +83,7 @@
 
 ### libuv
 
-* Low level library that enabled the event loop
+* Low level library that enables the event loop
 * Fixed size thread pool
 * The main thread sends tasks to thread pool
 * Upon completion, informs main thread to execute callback
@@ -97,3 +97,76 @@
 * CPU bound tasks are slow
 * Only horizontal scaling
   * There are modules that allow for multi-threaded operation
+
+---
+
+### Code example
+
+' Callback, Promises, async/await
+
+***
+
+### Node.js ecosystem
+
+---
+
+### Modules
+* CommonJS
+* AMD
+* ES2015
+* ?
+
+' Show examples
+
+---
+
+### NPM
+* NPM Scripts
+* NPM vs Yarn
+* node_modules
+
+' Show examples
+
+---
+
+### Compile to JS languages
+* Typescript
+* F#
+* Kotlin
+
+' Show examples
+
+---
+
+### Frameworks
+* Express
+* Node Red
+* Meteor
+
+' Show examples
+
+***
+
+### What can I do with Node
+
+* Code sharing
+* Isomorphic (universal) Javascript
+  * Server Side rendering of client side frameworks
+
+---
+
+### Code Sharing
+
+* Business Logic
+* Validation
+* Markup (More on that later)
+
+' Show examples
+
+---
+
+### Isomorphic (Universal) Javascript
+
+* Render the landing page of a SPA on the server
+* SEO
+* Allow client side framework to continue to handle the generated HTML on the client
