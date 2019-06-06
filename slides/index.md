@@ -69,7 +69,9 @@
 
 ---
 
-### Get event loop picture
+### Event Loop
+
+![EventLoop.svg](images/EventLoop.svg)
 
 ---
 
@@ -104,7 +106,7 @@
 
 ### Code example
 
-' Callback, Promises, async/await
+' Callback, Pyramid of Doom, Promises, async/await
 
 ***
 

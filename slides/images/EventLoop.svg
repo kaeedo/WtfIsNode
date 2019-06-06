@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    preserveAspectRatio="xMidYMid meet" viewBox="0 0 566.929 306.142" width="566.93" height="306.14">
+    <defs>
+        <path d="M0 0L566.93 0L566.93 306.14L0 306.14L0 0Z" id="alUWBMT6R"></path>
+        <path d="M11.13 11.81L163.05 11.81L163.05 106.93L11.13 106.93L11.13 11.81Z" id="cpLmOXiuo"></path><text
+            id="eBnBT7Uaf" x="40" y="32.42" font-size="11" font-family="Verdana" font-weight="normal"
+            font-style="normal" letter-spacing="0" alignment-baseline="before-edge"
+            transform="matrix(1 0 0 1 -23.51919656594489 -2.2604697225794306)" style="line-height:100%"
+            xml:space="preserve" dominant-baseline="text-before-edge">
+            <tspan x="40" dy="0em" alignment-baseline="before-edge" dominant-baseline="text-before-edge"
+                text-anchor="start">User Requests</tspan>
+            <tspan x="40" dy="1.2em" alignment-baseline="before-edge" dominant-baseline="text-before-edge"
+                text-anchor="start">    Start HTTP</tspan>
+            <tspan x="40" dy="1.2em" alignment-baseline="before-edge" dominant-baseline="text-before-edge"
+                text-anchor="start">    Start reading from File</tspan>
+            <tspan x="40" dy="1.2em" alignment-baseline="before-edge" dominant-baseline="text-before-edge"
+                text-anchor="start">    Timer</tspan>
+        </text>
+        <path
+            d="M423.18 136.67C423.18 199.99 371.78 251.39 308.46 251.39C245.15 251.39 193.75 199.99 193.75 136.67C193.75 73.36 245.15 21.96 308.46 21.96C371.78 21.96 423.18 73.36 423.18 136.67Z"
+            id="cFQNEjTck"></path><text id="aZjBSxfgb" x="268.93" y="66.99" font-size="14" font-family="Verdana"
+            font-weight="normal" font-style="normal" letter-spacing="0" alignment-baseline="before-edge"
+            transform="matrix(1 0 0 1 -13.181997546473497 5.419510854301677)" style="line-height:100%"
+            xml:space="preserve" dominant-baseline="text-before-edge">
+            <tspan x="268.93" dy="0em" alignment-baseline="before-edge" dominant-baseline="text-before-edge"
+                text-anchor="start">libuv Timers</tspan>
+            <tspan x="268.93" dy="1.47em" alignment-baseline="before-edge" dominant-baseline="text-before-edge"
+                text-anchor="start">I/O Callbacks</tspan>
+            <tspan x="268.93" dy="1.47em" alignment-baseline="before-edge" dominant-baseline="text-before-edge"
+                text-anchor="start">Idle, Prepare</tspan>
+            <tspan x="268.93" dy="1.47em" alignment-baseline="before-edge" dominant-baseline="text-before-edge"
+                text-anchor="start">Poll</tspan>
+            <tspan x="268.93" dy="1.47em" alignment-baseline="before-edge" dominant-baseline="text-before-edge"
+                text-anchor="start">Check</tspan>
+            <tspan x="268.93" dy="1.47em" alignment-baseline="before-edge" dominant-baseline="text-before-edge"
+                text-anchor="start">Close Callbacks</tspan>
+        </text>
+        <path d="M448.59 160.16L559.01 160.16L559.01 265.75L448.59 265.75L448.59 160.16Z" id="akmw4noSW"></path><text
+            id="a260vVslnQ" x="450.86" y="118.11" font-size="14" font-family="Verdana" font-weight="normal"
+            font-style="normal" letter-spacing="0" alignment-baseline="before-edge"
+            transform="matrix(1 0 0 1 6.294367679281379 17.716546874999977)" style="line-height:100%"
+            xml:space="preserve" dominant-baseline="text-before-edge">
+            <tspan x="450.86" dy="0em" alignment-baseline="before-edge" dominant-baseline="text-before-edge"
+                text-anchor="start">Long Running</tspan>
+        </text><text id="b1hyYaMXDD" x="457.96" y="157.77" font-size="14" font-family="Verdana" font-weight="normal"
+            font-style="normal" letter-spacing="0" alignment-baseline="before-edge"
+            transform="matrix(1 0 0 1 -3.130804432933246 8.445305061069263)" style="line-height:100%"
+            xml:space="preserve" dominant-baseline="text-before-edge">
+            <tspan x="457.96" dy="0em" alignment-baseline="before-edge" font-size="13" dominant-baseline="text-before-edge"
+                text-anchor="start">Read/Write File</tspan>
+            <tspan x="457.96" dy="1.2em" alignment-baseline="before-edge" dominant-baseline="text-before-edge"
+                text-anchor="start">　</tspan>
+            <tspan x="457.96" dy="1.2em" alignment-baseline="before-edge" dominant-baseline="text-before-edge"
+                text-anchor="start">HTTP Call</tspan>
+            <tspan x="457.96" dy="1.2em" alignment-baseline="before-edge" dominant-baseline="text-before-edge"
+                text-anchor="start">　</tspan>
+            <tspan x="457.96" dy="1.2em" alignment-baseline="before-edge" dominant-baseline="text-before-edge"
+                text-anchor="start">Promises</tspan>
+        </text>
+        <path
+            d="M209.26 30.35L245.28 24.03L209.26 17.72L209.26 21.72L171.06 21.72L171.06 26.35L209.26 26.35L209.26 30.35Z"
+            id="c1ajveHM9N"></path>
+        <path
+            d="M195.58 49.02L218.51 43.06L195.58 37.1L195.58 40.88L171.25 40.88L171.25 45.25L195.58 45.25L195.58 49.02Z"
+            id="c2ne2bxfG"></path>
+        <path
+            d="M187.88 65.92L203.74 60.49L187.88 55.06L187.88 58.5L171.06 58.5L171.06 62.48L187.88 62.48L187.88 65.92Z"
+            id="bzKJxP5Lx"></path>
+        <path
+            d="M182.61 86.36L193.5 80.22L182.61 74.09L182.61 77.98L171.06 77.98L171.06 82.48L182.61 82.48L182.61 86.36Z"
+            id="a3dAYYmhKP"></path>
+        <path d="M509.35 119.47C494.52 54.77 453.18 25.69 385.33 32.23" id="a3r0jZwRvc"></path>
+        <path d="M513.14 119.26L517.36 114.51L508.92 114.51L500.49 114.51L504.71 119.26L508.92 124.02L513.14 119.26Z"
+            id="d1FzoEF9fz"></path><text id="a7pzIBNFs" x="451.77" y="25.86" font-size="14" font-family="Verdana"
+            font-weight="normal" font-style="normal" letter-spacing="0" alignment-baseline="before-edge"
+            transform="matrix(1 0 0 1 8.858265624999945 -2.833988898527309)" style="line-height:100%"
+            xml:space="preserve" dominant-baseline="text-before-edge">
+            <tspan x="451.77" dy="0em" alignment-baseline="before-edge" dominant-baseline="text-before-edge"
+                text-anchor="start">Register</tspan>
+            <tspan x="451.77" dy="1.2em" alignment-baseline="before-edge" dominant-baseline="text-before-edge"
+                text-anchor="start">      Callback</tspan>
+        </text>
+        <path d="M183.84 131.18L202.99 131.18L202.99 139.33L183.84 139.33L183.84 131.18Z" id="aifZ5dEOJ"></path>
+        <path d="M415.62 129.92L434.77 129.92L434.77 138.08L415.62 138.08L415.62 129.92Z" id="a7RaPwOgc5"></path>
+        <path d="M430.56 127.12L437.56 120.77L423.55 120.77L409.55 120.77L416.55 127.12L423.55 133.47L430.56 127.12Z"
+            id="f1Q03TOnZW"></path>
+        <path d="M201.17 141.73L208.17 148.08L194.16 148.08L180.16 148.08L187.16 141.73L194.16 135.38L201.17 141.73Z"
+            id="eLN0QoUWW"></path>
+        <path d="" id="a6AZbwLgGI"></path>
+        <path d="M320.01 263.09C357.13 277.98 397.32 278.87 440.58 265.75" id="a6sv7cV1Ga"></path>
+        <path d="M317.99 266.38L318.9 272.59L324.24 265.75L329.57 258.9L323.33 259.54L317.08 260.17L317.99 266.38Z"
+            id="b1z9ybZb9C"></path><text id="c1aTqh6Wxh" x="353.35" y="283.46" font-size="11" font-family="Verdana"
+            font-weight="normal" font-style="normal" letter-spacing="0" alignment-baseline="before-edge"
+            transform="matrix(1 0 0 1 -25.589983143003735 -9.094484374999979)" style="line-height:100%"
+            xml:space="preserve" dominant-baseline="text-before-edge">
+            <tspan x="353.35" dy="0em" alignment-baseline="before-edge" dominant-baseline="text-before-edge"
+                text-anchor="start">Operation Complete</tspan>
+        </text>
+        <path d="M62.92 121.96C96.25 213.68 163.86 259.19 265.75 258.48" id="b20Hr2gYkq"></path>
+        <path d="M68.66 121.94L73.92 125.5L65.75 127.58L57.58 129.66L60.49 124.02L63.41 118.37L68.66 121.94Z"
+            id="d3hVsDN7b"></path><text id="g33Nvji7EF" x="58.66" y="190.75" font-size="11" font-family="Verdana"
+            font-weight="normal" font-style="normal" letter-spacing="0" alignment-baseline="before-edge"
+            transform="matrix(1 0 0 1 44.68085106382995 -12.765957446808557)" style="line-height:100%"
+            xml:space="preserve" dominant-baseline="text-before-edge">
+            <tspan x="58.66" dy="0em" alignment-baseline="before-edge" dominant-baseline="text-before-edge"
+                text-anchor="start">Trigger</tspan>
+            <tspan x="58.66" dy="1.2em" alignment-baseline="before-edge" dominant-baseline="text-before-edge"
+                text-anchor="start">     Callback</tspan>
+        </text>
+    </defs>
+    <g>
+        <g>
+            <g>
+                <use xlink:href="#alUWBMT6R" opacity="1" fill="#111111" fill-opacity="1"></use>
+            </g>
+            <g>
+                <g>
+                    <use xlink:href="#cpLmOXiuo" opacity="1" fill-opacity="0" stroke="#5ddb72" stroke-width="7.56"
+                        stroke-opacity="1"></use>
+                </g>
+            </g>
+            <g id="dMWpmGJzS">
+                <use xlink:href="#eBnBT7Uaf" opacity="1" fill="#eeeeee" fill-opacity="1"></use>
+            </g>
+            <g>
+                <g>
+                    <use xlink:href="#cFQNEjTck" opacity="1" fill-opacity="0" stroke="#5ddb72" stroke-width="7.56"
+                        stroke-opacity="1"></use>
+                </g>
+            </g>
+            <g id="d4CeBr4YT">
+                <use xlink:href="#aZjBSxfgb" opacity="1" fill="#eeeeee" fill-opacity="1"></use>
+            </g>
+            <g>
+                <g>
+                    <use xlink:href="#akmw4noSW" opacity="1" fill-opacity="0" stroke="#5ddb72" stroke-width="7.56"
+                        stroke-opacity="1"></use>
+                </g>
+            </g>
+            <g id="n4Le9EkvD">
+                <use xlink:href="#a260vVslnQ" opacity="1" fill="#eeeeee" fill-opacity="1"></use>
+            </g>
+            <g id="gmEHXlE0z">
+                <use xlink:href="#b1hyYaMXDD" opacity="1" fill="#eeeeee" fill-opacity="1"></use>
+            </g>
+            <g>
+                <use xlink:href="#c1ajveHM9N" opacity="1" fill="#5ddb72" fill-opacity="1"></use>
+            </g>
+            <g>
+                <use xlink:href="#c2ne2bxfG" opacity="1" fill="#5ddb72" fill-opacity="1"></use>
+            </g>
+            <g>
+                <use xlink:href="#bzKJxP5Lx" opacity="1" fill="#5ddb72" fill-opacity="1"></use>
+            </g>
+            <g>
+                <use xlink:href="#a3dAYYmhKP" opacity="1" fill="#5ddb72" fill-opacity="1"></use>
+            </g>
+            <g>
+                <g>
+                    <use xlink:href="#a3r0jZwRvc" opacity="1" fill-opacity="0" stroke="#5ddb72" stroke-width="3.78"
+                        stroke-opacity="1"></use>
+                </g>
+            </g>
+            <g>
+                <use xlink:href="#d1FzoEF9fz" opacity="1" fill="#5ddb72" fill-opacity="1"></use>
+            </g>
+            <g id="a1RXymnIEf">
+                <use xlink:href="#a7pzIBNFs" opacity="1" fill="#eeeeee" fill-opacity="1"></use>
+            </g>
+            <g>
+                <use xlink:href="#aifZ5dEOJ" opacity="1" fill="#111111" fill-opacity="1"></use>
+            </g>
+            <g>
+                <use xlink:href="#a7RaPwOgc5" opacity="1" fill="#111111" fill-opacity="1"></use>
+            </g>
+            <g>
+                <use xlink:href="#f1Q03TOnZW" opacity="1" fill="#5ddb72" fill-opacity="1"></use>
+            </g>
+            <g>
+                <use xlink:href="#eLN0QoUWW" opacity="1" fill="#5ddb72" fill-opacity="1"></use>
+            </g>
+            <g>
+                <g>
+                    <use xlink:href="#a6AZbwLgGI" opacity="1" fill-opacity="0" stroke="#5ddb72" stroke-width="3.78"
+                        stroke-opacity="1"></use>
+                </g>
+            </g>
+            <g>
+                <g>
+                    <use xlink:href="#a6sv7cV1Ga" opacity="1" fill-opacity="0" stroke="#5ddb72" stroke-width="3.78"
+                        stroke-opacity="1"></use>
+                </g>
+            </g>
+            <g>
+                <use xlink:href="#b1z9ybZb9C" opacity="1" fill="#5ddb72" fill-opacity="1"></use>
+            </g>
+            <g id="c3mlC92BX8">
+                <use xlink:href="#c1aTqh6Wxh" opacity="1" fill="#eeeeee" fill-opacity="1"></use>
+            </g>
+            <g>
+                <g>
+                    <use xlink:href="#b20Hr2gYkq" opacity="1" fill-opacity="0" stroke="#5ddb72" stroke-width="3.78"
+                        stroke-opacity="1"></use>
+                </g>
+            </g>
+            <g>
+                <use xlink:href="#d3hVsDN7b" opacity="1" fill="#5ddb72" fill-opacity="1"></use>
+            </g>
+            <g id="a1viuMLBIW">
+                <use xlink:href="#g33Nvji7EF" opacity="1" fill="#eeeeee" fill-opacity="1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
