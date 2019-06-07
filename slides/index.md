@@ -118,9 +118,10 @@
 * CommonJS
 * AMD
 * ES2015
-* ?
+  * *.mjs
 
 ' Show examples
+' node --experimental-modules .\Examples\modules\es6\index.mjs
 
 ---
 
@@ -146,7 +147,7 @@
 * F#
 * Kotlin
 
-' Show examples
+' Show TS examples
 
 ---
 
