@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const firstFileName = './Examples/async/supportFiles/1.txt';
+const firstFileName = './supportFiles/1.txt';
 let nextFile = '';
 
 fs.readFile(firstFileName, { encoding: 'utf-8' }, (err, data) => {

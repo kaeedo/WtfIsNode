@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const firstFileName = './Examples/async/supportFiles/1.txt';
+const firstFileName = './supportFiles/1.txt';
 
 const betterReadFile = (file) => {
     return new Promise((resolve, reject) => {
@@ -20,3 +20,6 @@ const readAllFiles = async (file) => {
 
 readAllFiles(firstFileName)
     .then(console.log);
+
+
+// Top level await is coming "soon"

@@ -1,15 +1,18 @@
-function someJob(input, callback) {
+function double(input, callback) {
     const double = input * 2;
     setImmediate(() => callback(double));
 }
 
-let afterJob = 0;
-console.log(someJob(2, (doubled) => afterJob = doubled));
+let result;
 
-// console.log();
+double(2, (doubled) => result = doubled);
 
-// someJob(2, (doubled) => {
-//     console.log(afterJob);
-//     afterJob = doubled;
-//     console.log(afterJob);
+console.log(result);
+
+console.log();
+
+// double(2, (doubled) => {
+//     console.log(result);
+//     result = doubled;
+//     console.log(result);
 // });
