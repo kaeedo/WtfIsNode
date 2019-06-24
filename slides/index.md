@@ -122,7 +122,8 @@
   * *.mjs
 
 ' Show examples
-' node --experimental-modules .\Examples\modules\es6\index.mjs
+' modules directory
+' node --experimental-modules .\index.mjs
 
 ---
 
