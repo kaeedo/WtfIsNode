@@ -69,6 +69,15 @@
 
 ---
 
+### libuv
+
+* Low level library that enables the event loop
+* Fixed size thread pool
+* The main thread sends tasks to thread pool
+* Upon completion, informs main thread to execute callback
+
+---
+
 ### Event Loop
 
 ![EventLoop.svg](images/EventLoop.svg)
@@ -85,15 +94,6 @@
 
 ---
 
-### libuv
-
-* Low level library that enables the event loop
-* Fixed size thread pool
-* The main thread sends tasks to thread pool
-* Upon completion, informs main thread to execute callback
-
----
-
 ### Scaling
 
 * No thread context switch
@@ -106,6 +106,7 @@
 
 ### Code example
 
+' eventLoop directory
 ' Callback, Pyramid of Doom, Promises, async/await
 
 ***
@@ -178,8 +179,6 @@
 * Validation
 * Markup (More on that later)
 
-' Show examples
-
 ---
 
 ### Isomorphic (Universal) Javascript
@@ -187,3 +186,5 @@
 * Render the landing page of a SPA on the server
 * SEO
 * Allow client side framework to continue to handle the generated HTML on the client
+
+' Show examples

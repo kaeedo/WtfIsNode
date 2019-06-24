@@ -1,5 +1,19 @@
 {
     "FSharp.unusedDeclarationsAnalyzer": true,
     "FSharp.linter": true,
-    "editor.fontLigatures": false
+    "editor.fontLigatures": false,
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#fd6104",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#02fd60",
+        "activityBarBadge.foreground": "#15202b",
+        "titleBar.activeBackground": "#cc4d02",
+        "titleBar.inactiveBackground": "#cc4d0299",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveForeground": "#e7e7e799",
+        "statusBar.background": "#cc4d02",
+        "statusBarItem.hoverBackground": "#fd6104",
+        "statusBar.foreground": "#e7e7e7"
+    }
 }
