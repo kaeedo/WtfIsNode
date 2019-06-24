@@ -1,0 +1,23 @@
+{
+  "name": "typescriptExamples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "employees": "node dist/download/employee.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "12.0.10",
+    "@types/tunnel": "0.0.1",
+    "@types/underscore": "1.9.0",
+    "typescript": "3.5.2"
+  },
+  "dependencies": {
+    "typed-rest-client": "1.5.0"
+  }
+}

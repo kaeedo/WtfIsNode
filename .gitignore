@@ -185,4 +185,6 @@ docs
 .fake/
 FSharp.Formatting.svclog
 _NCrunch*
-Sample/node_modules
+**/node_modules
+
+Examples/typescriptExamples/dist

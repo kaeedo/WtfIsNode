@@ -126,10 +126,12 @@
 ---
 
 ### NPM
+
 * NPM Scripts
 * NPM vs Yarn
 * node_modules
 
+' ^ matches 1.x.x
 ' Show examples
 
 ---
@@ -143,6 +145,7 @@
 ---
 
 ### Compile to JS languages
+
 * Typescript
 * F#
 * Kotlin
@@ -152,11 +155,12 @@
 ---
 
 ### Frameworks
+
 * Express
 * Node Red
 * Meteor
 
-' Show examples
+' Show express examples
 
 ***
 
