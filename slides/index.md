@@ -27,7 +27,9 @@
 
 ---
 
-### Any questions?
+### Thank you?
+
+* Any Questions?
 
 ***
 
@@ -189,3 +191,9 @@
 * Allow client side framework to continue to handle the generated HTML on the client
 
 ' Show examples
+
+---
+
+### Thank you?
+
+* Any Questions?

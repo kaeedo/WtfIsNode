@@ -1,18 +1,19 @@
 const fs = require('fs');
+const path = require('path');
 
 const firstFileName = './supportFiles/1.txt';
 
 new Promise((resolve, reject) => {
-    fs.readFile(firstFileName, { encoding: 'utf-8' }, (err, data) => err ? reject(err) : resolve(data.trim()));
+    fs.readFile(path.join(__dirname, firstFileName), { encoding: 'utf-8' }, (err, data) => err ? reject(err) : resolve(data.trim()));
 })
 .then((response) => {
     return new Promise((resolve, reject) => {
-        fs.readFile(response, { encoding: 'utf-8' }, (err, data) => err ? reject(err) : resolve(data.trim()));
+        fs.readFile(path.join(__dirname, response), { encoding: 'utf-8' }, (err, data) => err ? reject(err) : resolve(data.trim()));
     })
 })
 .then((response) => {
     return new Promise((resolve, reject) => {
-        fs.readFile(response, { encoding: 'utf-8' }, (err, data) => err ? reject(err) : resolve(data.trim()));
+        fs.readFile(path.join(__dirname, response), { encoding: 'utf-8' }, (err, data) => err ? reject(err) : resolve(data.trim()));
     })
 })
 .then((response) => {
@@ -22,7 +23,7 @@ new Promise((resolve, reject) => {
 
 // const betterReadFile = (file) => {
 //     return new Promise((resolve, reject) => {
-//         fs.readFile(file, { encoding: 'utf-8' }, (err, data) => err ? reject(err) : resolve(data.trim()));
+//         fs.readFile(path.join(__dirname, file), { encoding: 'utf-8' }, (err, data) => err ? reject(err) : resolve(data.trim()));
 //     });
 // }
 

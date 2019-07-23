@@ -1,10 +1,11 @@
 const fs = require('fs');
+const path = require('path');
 
 const firstFileName = './supportFiles/1.txt';
 
 const betterReadFile = (file) => {
     return new Promise((resolve, reject) => {
-        fs.readFile(file, { encoding: 'utf-8' }, (err, data) => err ? reject(err) : resolve(data.trim()));
+        fs.readFile(path.join(__dirname, file), { encoding: 'utf-8' }, (err, data) => err ? reject(err) : resolve(data.trim()));
     });
 }
 
